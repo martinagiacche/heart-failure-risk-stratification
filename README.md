@@ -16,6 +16,10 @@ A dedicated architecture is designed for each data modality:
 - **Echocardiography**: processed with a 3D Convolutional Neural Network
 The outputs of each model are combined using a **decision-level fusion (soft voting)** strategy to obtain the final prediction.
 
+## System Overview
+The following diagram illustrates the proposed multimodal framework:
+![Multimodal Pipeline](pipeline.png)
+
 ## Key Features
 - Multimodal data integration (clinical + signal + imaging)
 - Combination of machine learning and deep learning models
