@@ -35,4 +35,4 @@ This is a research-oriented project focused on system design and methodology dev
 
 ## Report
 The full project report is available here:
-[Multimodal Approach for Heart Failure Risk Stratification.pdf](https://github.com/user-attachments/files/26544261/Multimodal.Approach.for.Heart.Failure.Risk.Stratification.pdf)
+[Multimodal Approach for Heart Failure Risk Stratification.pdf](Multimodal Approach for Heart Failure Risk Stratification.pdf)
