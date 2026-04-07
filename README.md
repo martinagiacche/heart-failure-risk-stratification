@@ -18,7 +18,7 @@ The outputs of each model are combined using a **decision-level fusion (soft vot
 
 ## System Overview
 The following diagram illustrates the proposed multimodal framework:
-![Multimodal Pipeline](pipeline.png)
+![Multimodal Pipeline](pipeline.jpeg)
 
 ## Key Features
 - Multimodal data integration (clinical + signal + imaging)
